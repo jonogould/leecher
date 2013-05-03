@@ -37,7 +37,7 @@ Lastly make the script executable using ```chmod +x leecher.js```
 
 How do you use ``` leecher ```, I hear you asking? Well:
 
-Add it to your ```node_includes``` folder and include it into your script using ```var leecher = require('leecher');```.
+Add it to your ```node_modules``` folder and include it into your script using ```var leecher = require('leecher').leecher;```.
 
 
 ## Examples
